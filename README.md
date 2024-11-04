@@ -10,3 +10,5 @@ Guarda el script en un archivo con extensión .py, por ejemplo, get_metadata.py.
 Abre una terminal de comandos (CMD) o PowerShell y navega a la ubicación del script.
 Ejecuta el script: python get_metadata.py
 Ingresa la ruta del archivo
+
+*Asegúrate de que exiftool y bat estén en tu PATH o ajusta las rutas según sea necesario.
