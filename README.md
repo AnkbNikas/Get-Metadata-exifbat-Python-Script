@@ -1,4 +1,4 @@
-# Get-Metadata-Python-Script
+# Get-Metadata-exiftbat-Python-Script
 Script de Python que utiliza exiftool para extraer los metadatos y bat para mostrar la salida de manera formateada.
 
 Requisitos previos:
